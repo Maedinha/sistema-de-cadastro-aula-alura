@@ -7,5 +7,5 @@ Projeto realizado para a realização da aula sobre Git e GitHub da Alura.
 Para rodar esse projeto em sua máquina, por favor, digite:
 
 ```
-comando aqui
+node app.js
 ```
